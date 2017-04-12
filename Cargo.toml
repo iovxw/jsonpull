@@ -1,0 +1,7 @@
+[package]
+name = "jsonpull"
+version = "0.1.0"
+authors = ["iovxw <iovxw@outlook.com>"]
+
+[dependencies]
+error-chain = "0.10"
